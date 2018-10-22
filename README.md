@@ -12,3 +12,4 @@ So credentials work. We do branches too -- adding feature.
 
 Working on feature.
 
+Feature is merged to master, carry on work on master.

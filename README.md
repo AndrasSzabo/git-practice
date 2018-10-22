@@ -6,5 +6,9 @@ Who did this? -- Andras
 
 How about credentials?
 
-
 Meanwhile on the master branch...
+
+So credentials work. We do branches too -- adding feature.
+
+Working on feature.
+
